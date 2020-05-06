@@ -26,7 +26,7 @@ than the fifth, which in turn must receive more
 than the sixth. Thus the total becomes 10.
 
 
-# Noted
+# Notes
 - n : 4 bits.
 - templeHeight : rom 16 x 8 bits.
 ## Install
