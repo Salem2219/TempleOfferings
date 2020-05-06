@@ -4,7 +4,7 @@ Consider a devotee wishing to give offerings to temples along a mountain range. 
 Examples:
 
 Input  : 3
-         1 2 2
+        { 1 2 2}
 Output : 4
 All temples must receive at-least one offering.
 Now, the second temple is at a higher altitude
@@ -16,7 +16,7 @@ offerings. Offerings given are therefore: 1, 2,
 1 giving a total of 4.
 
 Input  : 6
-         1 4 3 6 2 1
+        { 1 4 3 6 2 1 }
 Output : 10
 We can distribute the offerings in the following
 way, 1, 2, 1, 3, 2, 1. The second temple has to 
